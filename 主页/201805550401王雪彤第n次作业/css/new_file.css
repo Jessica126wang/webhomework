@@ -1,0 +1,197 @@
+.body{
+	width: 1200px;
+	height: 900px;
+}
+
+.logo{
+	float: left;
+	margin-left: 200px;
+}
+
+.search{
+	width: 502.8px;
+	border: 1px solid #dfdfdf;
+    background-color: #f3f6f8;
+    margin-left: 150px;
+    margin-top: 20px;
+    float: left;
+    display: inline-block;
+    text-align: center;
+    border-radius:15px;
+}
+
+.dropdown{
+	width: 30px;
+	height: 29.6px;
+	padding-left: 19px;
+	padding-right: 19px;
+	position: relative;
+	display: inline-block;
+	float: left;
+    display: inline-block;
+    border: none transparent;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    float: left;
+    display: inline-block;
+    border: none transparent;
+}
+
+.manu{
+	width: 1200px;
+	background-color: #1479d7;
+	margin-left: 100px;
+	position: absolute;
+	margin-top: 80px;
+	font-size: 25px;
+	color: white;
+	border-radius: 5px;
+	text-align: center;
+	height: 44px;
+	float: left;
+}
+
+.manu2{
+	background-color: #1479D7;
+	float: left;
+	font-size: 16px;
+	font-stretch: 100%;
+	line-height: 44px;
+	list-style-type: disc;
+	color: white;
+	text-align: center;
+	list-style-type: none;
+	width: 115px;
+}
+
+.text1{
+	width: 400px;
+	height: 100%;
+	float: left;
+	display: inline-block;
+	margin-left: 95px;
+	margin-top: 100px;
+}
+
+.text1-{
+	display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+.li2{
+	font-size: 10px;
+}
+	
+.text2{
+	width: 400px;
+	height: 100%;
+	float: left;
+	display: inline-block;
+	margin-top: 100px;
+	margin-left: 10px;
+}
+
+.text3{
+	width: 400px;
+	height: 100%;
+	float: left;
+	display: inline-block;
+	margin-left: 920px;
+	margin-top: -900px;
+}
+
+.picture{
+	display: inline-block;
+	width: 1200px;
+	height: 100px;
+	float: left;
+	margin-left: 105px;
+}
+
+.title{
+	width: 400px;
+	height: 50px;
+    border-bottom: 1px solid #cae0f3;
+   
+    display: inline;
+    padding-bottom: 10px;
+}
+
+.yaowen{
+	font-family: "微软雅黑";
+	font-size: x-large;
+	color: #1479D7;
+	width: 80px;
+	height: 35px;
+	border-right:1px solid #cae0f3;
+	display: inline-block;
+}
+
+.hunanxinwen{
+	font-family: "微软雅黑";
+	font-size: x-large;
+	width: 150px;
+	height: 50px;
+	display: inline-block;
+	margin-left: 20px;
+}
+
+.jinrihuati{
+	font-family: "微软雅黑";
+	font-size: x-large;
+	color: #1479D7;
+	width: 400px;
+	height: 35px;
+	display: inline-block;
+	border-bottom: 1px solid #CAE0F3;
+}
+
+.biaoge{
+	border: 1px solid #CAE0F3;
+	width: 400px;
+	height: 35px;
+	list-style-type: none;
+	margin-left: -40px;
+	text-align: center;
+	font-family: "微软雅黑";
+	font-size: 17px;
+}
+
+.table1{
+	width: 400px;
+	font-family: "微软雅黑";
+	font-size: 20px;
+	list-style-type: none;
+	margin-left: -40px;
+}
+
+.table2{
+	width: 400px;
+	font-family: "微软雅黑";
+	font-size: 17px;
+	list-style-type: none;
+	margin-left: -40px;
+	margin-top: 5px;
+}
+
+.remensaishi{
+	font-family: "微软雅黑";
+	font-size: x-large;
+	color: #1479D7;
+	width: 100px;
+	height: 35px;
+	border-bottom:1px solid #cae0f3;
+	display: inline-block;
+}
